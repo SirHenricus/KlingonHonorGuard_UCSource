@@ -412,9 +412,9 @@ defaultproperties
      MaxPlayers=10
      bChangeLevels=True
      InitialBots=4
-     GlobalNameChange=" hat den Namen ge‰ndert in "
+     GlobalNameChange=" hat den Namen ge√§ndert in "
      NoNameChange=" wird bereits verwendet"
-     MaxedOutMessage="Serverkapazit‰t ist bereits ausgelastet."
+     MaxedOutMessage="Serverkapazit√§t ist bereits ausgelastet."
      bRestartLevel=False
      bPauseable=False
      DefaultPlayerClass=None
