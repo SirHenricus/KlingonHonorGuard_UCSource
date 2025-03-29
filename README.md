@@ -8,4 +8,4 @@ This is the UnrealScript source code for the game Klingon Honor Guard (1998) dev
 
 Much like what I did with Nerf Arena Blast (another Unreal Engine 1 based game that I have extracted source code from), I only did this because I was curious about how the game works and not really for any other reason.
 
-Nothing was modified after being exported.
+Nothing was modified after being exported. Though I may not have been entirely careful when organizing the files.
